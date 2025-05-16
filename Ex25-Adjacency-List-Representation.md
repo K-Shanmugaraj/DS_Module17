@@ -1,5 +1,5 @@
-# Ex25 Adjacency List Representation
-## DATE:25/4/25
+# Ex5E Adjacency List Representation
+## DATE: 02-05-2025
 ## AIM:
 To write a C program to represent the given graph using the adjacency list.
 
